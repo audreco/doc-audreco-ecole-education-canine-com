@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+
+// Code syntax highlighting,
+// powered by https://highlightjs.org
+@import '~highlight.js/styles/a11y-light.css';
+
+@import 'base';
+@import 'navigation';
+@import 'documentation';
+@import 'search';
+
+@tailwind utilities;
+
+.h-screen-60 {
+	height: 60vh;
+}
+
+.bg-image-header {
+	background-image: url(/assets/img/tmp-img/header.jpg);
+	background-position: 50% 20%;
+}
+
+.top-100 {
+	top: 100px;
+}
+
+.m-100 {
+	margin: 100px auto auto auto;
+}
