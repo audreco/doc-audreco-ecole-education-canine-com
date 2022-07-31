@@ -82,7 +82,7 @@
         @stack('scripts')
 
         <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
-            <p><a itemprop="url" href="https://ecole-education-canine.com">École Éducation Canine</a> est un site de <a href="https://audreco.com/?utm_source=ecole+education+canine+com" target="_blank">l'École des Métiers de l'Animal de Compagnie</a><br>&copy; <a href="https://audreco.com/?utm_source=ecole+education+canine+com" title="L'école des métiers de l'anial de compagnie">Audreco</a> 2020. Built with <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a> and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>.<<a href="https://github.com/audreco/doc-audreco-ecole-education-canine-com" title="Voir le code source de ce site"><></a></p>
+            <p><a itemprop="url" href="https://ecole-education-canine.com">École Éducation Canine</a> est un site de <a href="https://audreco.com/?utm_source=ecole+education+canine+com" target="_blank">l'École des Métiers de l'Animal de Compagnie</a><br>&copy; <a href="https://audreco.com/?utm_source=ecole+education+canine+com" title="L'école des métiers de l'anial de compagnie">Audreco</a> 2020. Built with <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a> and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>. <a href="https://github.com/audreco/doc-audreco-ecole-education-canine-com" title="Voir le code source de ce site"><></a></p>
         </footer>
     </body>
 </html>
